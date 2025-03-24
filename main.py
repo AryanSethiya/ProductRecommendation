@@ -39,5 +39,7 @@ def index():
 
     return render_template('index.html', recommendations=recommendations)
 
+app.secret_key = 'your_secret'
+
 if __name__ == '__main__':
     app.run(debug=True)
