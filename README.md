@@ -44,7 +44,7 @@ The app will start on http://127.0.0.1:5000/.
 ### 🌍 Live Demo
 Try it live: recomMate on Render
 
-📂 Project Structure
+### 📂 Project Structure
 ```bash
 
 recomMate/
