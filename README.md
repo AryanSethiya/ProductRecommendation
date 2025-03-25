@@ -1,4 +1,3 @@
-# Build Product Recommendation With Bert Transformer | E-Commerce Recommendation Engine Using Machine Learning
 # recomMate - AI-Powered Product Recommendation System
 
 🚀 **recomMate** is an AI-powered product recommendation system that helps users find relevant products based on their search queries using **Sentence-BERT** embeddings and **cosine similarity**.
